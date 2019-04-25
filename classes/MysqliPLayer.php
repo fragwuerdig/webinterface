@@ -10,8 +10,8 @@ class MysqliPLayer implements IPLayer {
 		
 		$this->dbCredentials = array(
 			'host' => '10.17.19.2',
-			'username' => 'root',
-			'password' => 't13t0kanta_01',
+			'username' => 'mailuser',
+			'password' => 'some_password',
 			'database' => 'mailserver');
 		
 	}
